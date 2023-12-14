@@ -1,0 +1,10 @@
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\bin\Debug\ProgAvan.exe.config
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\bin\Debug\ProgAvan.exe
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\bin\Debug\ProgAvan.pdb
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.csproj.AssemblyReference.cache
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.Form1.resources
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.Properties.Resources.resources
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.csproj.GenerateResource.cache
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.csproj.CoreCompileInputs.cache
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.exe
+E:\Profesorado\2 Año 2 Cua\Programacion Avanzada\Final\ProgAvan\ProgAvan\obj\Debug\ProgAvan.pdb
